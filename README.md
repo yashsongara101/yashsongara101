@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Songara</h1>
 <h3 align="center">A passionate android and web app developer with a great interest in UI/UX designing.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsongara101" alt="yashsongara101" /> </p>
-
 - 🔭 I’m currently working on [My Portfolio](https://imyash-6342.web.app/#/)
 
 - 🌱 I’m currently learning **Flutter**
@@ -17,6 +15,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashsongara101&show_icons=true" alt="yashsongara101" /></p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashsongara101" alt="yashsongara101" /> </p>
 <p align="center">
 <a href="https://dev.to/imyash" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="imyash" height="30" width="30" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/yash-songara-54576414a/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="https://www.linkedin.com/in/yash-songara-54576414a/" height="30" width="30" /></a>
