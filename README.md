@@ -4,7 +4,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android, Firebase, Flutter, UI/UX Designing, Adobe illustrator, Adobe xd**
+- 💬 Ask me about **Android, React JS, React Native, AWS, Firebase, Flutter, UI/UX Designing, Adobe illustrator, Adobe xd**
 
 - 📫 How to reach me **yashsongara101@gmail.com**
 
