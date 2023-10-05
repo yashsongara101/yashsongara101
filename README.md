@@ -8,7 +8,6 @@
 
 - 📫 How to reach me **yashsongara101@gmail.com**
 
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/yash-songara-54576414a/) 
 
@@ -18,4 +17,6 @@
 ![](https://github-readme-stats.vercel.app/api?username=yashsongara101&theme=default&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yashsongara101&theme=default&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
+
+[![An image of @yashsongara101's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/yashsongara101)](https://holopin.io/@yashsongara101)
 ---
